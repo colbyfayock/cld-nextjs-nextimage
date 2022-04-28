@@ -3,41 +3,41 @@
     "id": "beach",
     "title": "Beach",
     "link": "https://unsplash.com/photos/8qH4GSYBiSA",
-    "image": "https://res.cloudinary.com/colbycloud/image/upload/f_auto,q_auto/v1651160384/cld-nextjs-test/beach_s62fnr.jpg",
-    "width": 2376,
-    "height": 1574
+    "image": "https://res.cloudinary.com/colbycloud/image/upload/f_auto,q_auto,w_983,h_651/v1651160384/cld-nextjs-test/beach_s62fnr.jpg",
+    "width": 983,
+    "height": 651
   },
   {
     "id": "city",
     "title": "City",
     "link": "https://unsplash.com/photos/4u2U8EO9OzY",
-    "image": "https://res.cloudinary.com/colbycloud/image/upload/f_auto,q_auto/v1651160391/cld-nextjs-test/city_uz60vu.jpg",
-    "width": 1364,
-    "height": 1705
+    "image": "https://res.cloudinary.com/colbycloud/image/upload/f_auto,q_auto,w_984,h_1230/v1651160391/cld-nextjs-test/city_uz60vu.jpg",
+    "width": 984,
+    "height": 1230
   },
   {
     "id": "earth",
     "title": "Earth",
     "link": "https://unsplash.com/photos/yZygONrUBe8",
-    "image": "https://res.cloudinary.com/colbycloud/image/upload/f_auto,q_auto/v1651160386/cld-nextjs-test/earth_r5i5uw.jpg",
-    "width": 2344,
-    "height": 1560
+    "image": "https://res.cloudinary.com/colbycloud/image/upload/f_auto,q_auto,w_983,h_654/v1651160386/cld-nextjs-test/earth_r5i5uw.jpg",
+    "width": 983,
+    "height": 654
   },
   {
     "id": "galaxy",
     "title": "Galaxy",
     "link": "https://unsplash.com/photos/0o_GEzyargo",
-    "image": "https://res.cloudinary.com/colbycloud/image/upload/f_auto,q_auto/v1651160387/cld-nextjs-test/galaxy_urke7o.jpg",
-    "width": 2340,
-    "height": 1560
+    "image": "https://res.cloudinary.com/colbycloud/image/upload/f_auto,q_auto,w_984,h_656/v1651160387/cld-nextjs-test/galaxy_urke7o.jpg",
+    "width": 984,
+    "height": 656
   },
   {
     "id": "iceberg",
     "title": "Iceberg",
     "link": "https://unsplash.com/photos/VSGEH7tKiUg",
-    "image": "https://res.cloudinary.com/colbycloud/image/upload/f_auto,q_auto/v1651160386/cld-nextjs-test/iceberg_xrrm7h.jpg",
-    "width": 2148,
-    "height": 1611
+    "image": "https://res.cloudinary.com/colbycloud/image/upload/f_auto,q_auto,w_984,h_738/v1651160386/cld-nextjs-test/iceberg_xrrm7h.jpg",
+    "width": 984,
+    "height": 738
   },
   {
     "id": "jungle",
